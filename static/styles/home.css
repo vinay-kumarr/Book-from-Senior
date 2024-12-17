@@ -1,0 +1,58 @@
+.background{
+    background-image: linear-gradient(135deg, #f7f3ef, #c0aa99);
+    min-height: 100vh;
+}
+
+.logo{
+    height: 60px;
+    width: 60px;
+}
+
+.header{
+    font-family: 'Poppins';
+}
+
+.main{
+    font-family: 'Poppins';
+    font-size: 55px !important ;
+}
+.image1{
+    
+    margin-top: -20px !important;
+}
+
+.button{
+    width: 75%;
+    background-color: #fccb5e !important;
+    border-color: #fccb5e !important;
+    text-align: left !important;
+    font-family: 'Poppins';
+}
+
+.about{
+    font-family: 'Poppins';
+    background-image: linear-gradient(135deg, rgba(168, 8, 67, .913), rgba(122, 12, 5, .913));
+    color: white;
+}
+
+.about-us{
+    font-size: 40px !important;
+    font-family: 'Poppins';
+}
+
+.para{
+    font-size: 20px !important;
+    font-family: 'Poppins';
+    text-align: justify;
+}
+
+.card2{
+    background-image: linear-gradient(135deg, #4b4b4b33, #1d1d1d4d);
+    color: black;
+}
+
+.pie{
+    height: 350px;
+    width: 500px;
+
+}
